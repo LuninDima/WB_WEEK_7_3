@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatsTinder</string>
+    <string name="error">Ошибка. Проверьте подключение к интернету</string>
+    <string name="post_error"> Ошибка, невозможно отправить данные на сервер (нет данных для отправки)</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="menu_Item_favorite_text">Favorite Cats</string>
+</resources>
